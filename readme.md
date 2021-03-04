@@ -6,7 +6,7 @@
 Проводилось "функциональное" тестирование
 
 ## Результаты
- 1.[Результат сложения двух значений не верный](https://github.com/RomanMachnev/Money-Transfer/issues/1)
+ 1.[Не верный результат подсчета конечного баланса в приложении "Money-Transfer"](https://github.com/RomanMachnev/Money-Transfer/issues/1)
  
  
 
